@@ -1,5 +1,26 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## 題目名稱
+TodoList
+## 一句話描述這個 project 在做什麼
+A todo list which contains features such as adding, completing, and clearing items with priority.
+## (Optional) Deployed 連結
+None.
+## 使用/操作方式
+Through key in todo tasks and detail descriptions and click summit buttom to create todo items.
+Click 'complete' buttom after each work to delete. 
+## 其他說明
+Sometimes failed on connecting backend server while sometimes works on my machine. (Due to some unknown error)
+## 使用與參考之框架/模組/原始碼
+The tutorial:
+https://codingthesmartway.com/the-mern-stack-tutorial-building-a-react-crud-application-from-start-to-finish-part-1/
+## 我的貢獻
+Fixing some out-of-date syntax. And improvement on file structure and readability. Also put some effort on making it works on Windows OS.
+## 心得
+Actually I didn't make some big change of the source code. Besides, I finished this work step by step through the tutorial in a blog. It's quite a tough time for me to fix those connection on Windows OS. And I also tried my best to understand what I am doing while reading the referance rather than just copy and paste. It truely took a lot of time and I however catch up to the course schedule. Although there are many homeworks and final-exams from other subjects near by QQ. 
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
